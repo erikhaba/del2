@@ -1,4 +1,4 @@
-package myquote
+package del2
 
 import (
 	"fmt"
