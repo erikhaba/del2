@@ -1,4 +1,4 @@
-module example/is-105
+module github.com/erikhaba/del2
 
 go 1.17
 
